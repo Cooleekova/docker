@@ -1,7 +1,5 @@
-## Домашнее задание по теме «Docker»
+## Introduction to Docker
 
-#### Задача 1
+Here I have created my first docker image with nginx http server.
 
-Создание собственного docker image с http сервером nginx.
-
-Страница приветствия Nginx заменена на текст приветствия из файла index.html
+Nginx welcome page was replaced with welcome text from index.html file
